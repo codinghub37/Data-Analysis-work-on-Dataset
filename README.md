@@ -160,12 +160,4 @@ matplotlib
 seaborn
 jupyter
 
-## Author
 
-### CodingHub37
-
-Aspiring Data Analyst | Machine Learning Enthusiast | AI Learner
-
-Passionate about Data Analytics, Machine Learning, Artificial Intelligence, and building real-world data-driven solutions.
-
- If you found this project useful, consider giving it a star on GitHub.
